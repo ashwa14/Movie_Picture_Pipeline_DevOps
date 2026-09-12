@@ -77,3 +77,5 @@ jobs:
       - name: Build Docker image
         working-directory: starter/frontend
         run: docker build -t movie-frontend-ci .
+
+# CI rubric verification
